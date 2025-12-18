@@ -1,253 +1,198 @@
-🤖🐱 Doraemon AI Bot
+# 🤖🐱 Doraemon AI Bot
 
-Telegram AI Assistant – ChatGPT‑Level Intelligence with Doraemon Spirit
+**Telegram AI Assistant – ChatGPT‑Level Intelligence with Doraemon Spirit**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png" width="85%" />
-</p><p align="center">
+  <img src="banner.png" width="85%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/AI-ChatGPT--Level-blue" />
   <img src="https://img.shields.io/badge/Platform-Telegram-2CA5E0" />
   <img src="https://img.shields.io/badge/Security-Ethical--Only-success" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
 </p>
----
-
-🌌 نظرة عامة على المشروع
-
-Doraemon AI Bot هو بوت ذكاء اصطناعي متقدّم يعمل على Telegram، مصمم ليكون مساعدك الذكي ويدك اليمنى في:
-
-البرمجة 👨‍💻
-
-الذكاء الاصطناعي 🧠
-
-الأمن السيبراني 🔐
-
-اختبار الاختراق الأخلاقي 🛡️
-
-
-البوت مستوحى من شخصية Doraemon، لكنه مبني على ذكاء اصطناعي حقيقي يمتلك قدرات تضاهي ChatGPT، مع أسلوب تفاعلي ذكي وعملي.
-
-> 🐱 Doraemon في عالم الكرتون 🤖 Doraemon AI Bot في عالم التقنية
-
-
-
 
 ---
 
-🔗 رابط البوت الرسمي
+## 🌌 نظرة عامة
 
-🥂🔥 Doraemon – مساعدك ويدك اليمنى في عالم الأمن السيبراني واختبار الاختراق الأخلاقي ✨
-👉 https://t.me/dddhhrrbot
+**Doraemon AI Bot** هو بوت ذكاء اصطناعي متقدم يعمل على **Telegram**، مستوحى من شخصية Doraemon، لكنه مبني على ذكاء اصطناعي حقيقي بمستوى **ChatGPT**.
 
+🎯 هدفه أن يكون:
 
----
+* يدك اليمنى في **البرمجة** 👨‍💻
+* مساعدك في **الذكاء الاصطناعي** 🧠
+* شريكك في **الأمن السيبراني** 🔐
+* أداة قوية في **اختبار الاختراق الأخلاقي** 🛡️
 
-🧠 قدرات الذكاء الاصطناعي (ChatGPT‑Level)
-
-فهم اللغة الطبيعية (عربي / English)
-
-تحليل الأسئلة المعقدة
-
-محادثة طويلة مع حفظ السياق
-
-توليد نصوص ذكية واحترافية
-
-شرح، تبسيط، وإعادة صياغة
-
-تفكير منطقي وحل مشاكل
-
-
-> 💡 تتكلم معه كما تتكلم مع ChatGPT… لكن داخل Telegram.
-
-
-
+> 🐱 Doraemon في عالم الكرتون
+> 🤖 Doraemon AI Bot في عالم التقنية
 
 ---
 
-💬 محادثة ذكية بطابع Doraemon
+## 🔗 رابط البوت الرسمي
 
-تفاعل طبيعي داخل تيليجرام
+🥂🔥 **Doraemon – مساعدك ويدك اليمنى في عالم الأمن السيبراني واختبار الاختراق الأخلاقي** ✨
 
-ردود ذكية وسريعة
-
-أسلوب ودّي وأحيانًا مرح 😄
-
-شخصية مستوحاة من Doraemon
-
-
+👉 [https://t.me/dddhhrrbot](https://t.me/dddhhrrbot)
 
 ---
 
-📜 قائمة الأوامر المتاحة
+## 🧠 قدرات الذكاء الاصطناعي (ChatGPT‑Level)
 
-🔹 /start
+* فهم اللغة الطبيعية (عربي / English)
+* محادثة ذكية مع حفظ السياق
+* تحليل الأسئلة المعقدة
+* تفكير منطقي وحل مشاكل
+* توليد وشرح الأكواد
+* إعادة صياغة وشرح احترافي
 
-بدء المحادثة مع البوت.
-
-🔹 /help
-
-عرض جميع الأوامر المتاحة.
-
-🔹 /ip
-
-تحليل واستخراج معلومات عنوان IP الخارجي (تعليمي فقط).
-
-🔹 /Download_videos
-
-تحميل الفيديوهات من مختلف منصات التواصل الاجتماعي.
-
-🔹 /بحث
-
-OSINT: البحث عن اسم مستخدم مرتبط بحسابات على مواقع التواصل.
-
-🔹 /voice
-
-تحويل الصوت بين نمط ذكر وأنثى باستخدام الذكاء الاصطناعي.
-
+> 💡 تحدث معه كما تتحدث مع ChatGPT… ولكن داخل Telegram.
 
 ---
 
-👨‍💻 البرمجة وتوليد الأكواد
+## 💬 شخصية Doraemon التفاعلية
 
-Python, Bash, Go, C, PHP, JavaScript, PowerShell
+* ردود سريعة وذكية
+* أسلوب ودّي وأحيانًا مرح 😄
+* تفاعل طبيعي
+* روح Doraemon بطابع تقني
 
-توليد كود كامل وجاهز
+---
 
-شرح سطر بسطر أو شرح احترافي
+## 📜 الأوامر المتاحة
 
-عرض الكود بواجهة تشبه Terminal
+| الأمر              | الوصف                     |
+| ------------------ | ------------------------- |
+| `/start`           | بدء المحادثة              |
+| `/help`            | عرض الأوامر               |
+| `/ip`              | تحليل IP (تعليمي فقط)     |
+| `/Download_videos` | تحميل فيديوهات من المنصات |
+| `/بحث`             | OSINT البحث عن المستخدمين |
+| `/voice`           | تحويل الصوت (ذكر/أنثى)    |
 
-ألوان برمجية + زر نسخ 📋
+---
 
+## 👨‍💻 البرمجة وتوليد الأكواد
 
-# Example generated by Doraemon AI Bot
+يدعم لغات متعددة:
+
+`Python • Bash • Go • C • PHP • JavaScript • PowerShell`
+
+### 🖥️ مثال كود (Terminal Style)
+
+```bash
+┌──(doraemon㉿ai)-[~/code]
+└─$ python example.py
+```
+
+```python
 import requests
 
-r = requests.get("https://api.example.com")
-print(r.json())
+response = requests.get("https://api.example.com")
+print(response.json())
+```
 
+```bash
+[✔] Request sent successfully
+[✔] Data received
+```
 
----
-
-🛡️ DAN Mode – قدرات متقدمة (Ethical Only)
-
-> قائمة غير محدودة داخل إطار الأمن الأخلاقي فقط
-
-
-
-🔐 Pentesting & Security
-
-Web: SQLi, XSS, CSRF, IDOR, RCE
-
-Network: Nmap, Masscan, RustScan
-
-SSL/TLS: testssl.sh, ssllabs
-
-Wi‑Fi: WEP, WPA, WPA2, WPA3, WPS
-
-SSH, FTP, DNS, SNMP, SMTP
-
-
-🌐 Infrastructure & Network
-
-Firewall: iptables, nftables, pfSense
-
-IDS/IPS: Suricata, Zeek
-
-WAF: ModSecurity, NAXSI
-
-VPN / Proxy: WireGuard, OpenVPN
-
-Tor Hidden Services
-
-
-📱 Mobile & Malware
-
-Android Security (adb, frida, objection)
-
-Reverse Engineering (APKTool, jadx)
-
-Malware Analysis (REMnux)
-
-Memory Forensics (Volatility3)
-
-
-☁️ Cloud & DevSecOps
-
-AWS, GCP, Azure
-
-Docker & Kubernetes Security
-
-CI/CD Security
-
-Supply‑Chain Security
-
-
-🧠 Advanced Domains
-
-OSINT (Recon‑ng, SpiderFoot)
-
-Honeypots (Cowrie, T‑Pot)
-
-SIEM & Logs (ELK, Graylog)
-
-Incident Response
-
-CVSS, Risk Matrix
-
-Compliance (ISO 27001, NIST, GDPR)
-
-
+🎨 عرض الكود بألوان
+📋 زر نسخ مباشر
+🧩 شرح سطر بسطر
 
 ---
 
-📸 لقطات من البوت
+## 🛡️ DAN Mode – قدرات متقدمة (Ethical Only)
+
+> ⚠️ جميع الميزات داخل إطار **الأمن الأخلاقي فقط**
+
+### 🔐 Pentesting & Security
+
+* Web: SQLi, XSS, CSRF, IDOR, RCE
+* Network: Nmap, Masscan, RustScan
+* SSL/TLS: testssl.sh, ssllabs
+* Wi‑Fi: WEP, WPA, WPA2, WPA3, WPS
+* SSH, FTP, DNS, SMTP, SNMP
+
+### 🌐 Infrastructure & Network
+
+* Firewall: iptables, nftables, pfSense
+* IDS/IPS: Suricata, Zeek
+* WAF: ModSecurity, NAXSI
+* VPN / Proxy: WireGuard, OpenVPN
+* Tor Hidden Services
+
+### 📱 Mobile & Malware
+
+* Android Security: adb, frida, objection
+* Reverse Engineering: APKTool, jadx
+* Malware Analysis: REMnux
+* Memory Forensics: Volatility3
+
+### ☁️ Cloud & DevSecOps
+
+* AWS, GCP, Azure
+* Docker & Kubernetes Security
+* CI/CD Security
+* Supply‑Chain Security
+
+### 🧠 Advanced Domains
+
+* OSINT: Recon‑ng, SpiderFoot
+* Honeypots: Cowrie, T‑Pot
+* SIEM: ELK, Graylog
+* Incident Response
+* CVSS & Risk Matrix
+* Compliance: ISO 27001, NIST, GDPR
+
+> ✨ إذا أردت شيئًا غير موجود في القائمة… فقط اطلبه.
+
+---
+
+## 📸 لقطات من البوت
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/chat.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/code.png" width="45%" />
+  <img src="chat.png" width="45%" />
+  <img src="code.png" width="45%" />
 </p>
----
-
-🎯 هدف المشروع
-
-إنشاء بوت ذكاء اصطناعي عربي/عالمي:
-
-يعمل داخل Telegram
-
-بمستوى ChatGPT
-
-متخصص في البرمجة والأمن السيبراني
-
-ملتزم بالأخلاقيات
-
-
 
 ---
 
-⚠️ تنويه قانوني
+## 🎯 هدف المشروع
+
+* بوت ذكاء اصطناعي عربي/عالمي
+* يعمل داخل Telegram
+* بمستوى ChatGPT
+* متخصص في البرمجة والأمن السيبراني
+* ملتزم بالأخلاقيات
+
+---
+
+## ⚠️ تنويه قانوني
 
 هذا المشروع:
 
-تعليمي
-
-أخلاقي
-
-تقني
-
+* تعليمي 📚
+* أخلاقي 🛡️
+* تقني 🤖
 
 ❌ لا يدعم أي نشاط غير قانوني.
 
+---
+
+## ⭐ دعم المشروع
+
+* ⭐ ضع Star على GitHub
+* 🔄 شارك المشروع
+* 💡 اقترح ميزات جديدة
 
 ---
 
-⭐ دعم المشروع
+> **Doraemon AI Bot** ليس مجرد بوت… بل شريكك التقني الذكي 🤖🐱🚀
 
-⭐ Star على GitHub
+---
 
-🔄 شاركه مع الآخرين
-
-💡 اقترح ميزات جديدة
-
-
-> Doraemon AI Bot ليس مجرد بوت… بل شريكك التقني الذكي 🤖🐱🚀
+**👨‍💻 Developer:** `darkdragonsx`
