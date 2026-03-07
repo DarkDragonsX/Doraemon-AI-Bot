@@ -1,6 +1,6 @@
 # 🤖🐱 Doraemon AI Bot
 
-**Telegram AI Assistant – ChatGPT‑Level Intelligence with Doraemon Spirit**
+**Telegram AI Assistant – ChatGPT-Level Intelligence with Doraemon Spirit**
 
 <p align="center">
   <img src="banner.png" width="85%" />
@@ -26,7 +26,7 @@
 * شريكك في **الأمن السيبراني** 🔐
 * أداة قوية في **اختبار الاختراق الأخلاقي** 🛡️
 
-> 🐱 Doraemon في عالم الكرتون
+> 🐱 Doraemon في عالم الكرتون  
 > 🤖 Doraemon AI Bot في عالم التقنية
 
 ---
@@ -35,11 +35,11 @@
 
 🥂🔥 **Doraemon – مساعدك ويدك اليمنى في عالم الأمن السيبراني واختبار الاختراق الأخلاقي** ✨
 
-👉 [https://t.me/dddhhrrbot](https://t.me/dddhhrrbot)
+👉 https://t.me/dddhhrrbot
 
 ---
 
-## 🧠 قدرات الذكاء الاصطناعي (ChatGPT‑Level)
+## 🧠 قدرات الذكاء الاصطناعي (ChatGPT-Level)
 
 * فهم اللغة الطبيعية (عربي / English)
 * محادثة ذكية مع حفظ السياق
@@ -63,14 +63,14 @@
 
 ## 📜 الأوامر المتاحة
 
-| الأمر              | الوصف                     |
-| ------------------ | ------------------------- |
-| `/start`           | بدء المحادثة              |
-| `/help`            | عرض الأوامر               |
-| `/ip`              | تحليل IP (تعليمي فقط)     |
+| الأمر | الوصف |
+|------|------|
+| `/start` | بدء المحادثة |
+| `/help` | عرض الأوامر |
+| `/ip` | تحليل IP (تعليمي فقط) |
 | `/Download_videos` | تحميل فيديوهات من المنصات |
-| `/بحث`             | OSINT البحث عن المستخدمين |
-| `/voice`           | تحويل الصوت (ذكر/أنثى)    |
+| `/بحث` | OSINT البحث عن المستخدمين |
+| `/voice` | تحويل الصوت (ذكر/أنثى) |
 
 ---
 
@@ -99,9 +99,9 @@ print(response.json())
 [✔] Data received
 ```
 
-🎨 عرض الكود بألوان
-📋 زر نسخ مباشر
-🧩 شرح سطر بسطر
+🎨 عرض الكود بألوان  
+📋 زر نسخ مباشر  
+🧩 شرح سطر بسطر  
 
 ---
 
@@ -114,7 +114,7 @@ print(response.json())
 * Web: SQLi, XSS, CSRF, IDOR, RCE
 * Network: Nmap, Masscan, RustScan
 * SSL/TLS: testssl.sh, ssllabs
-* Wi‑Fi: WEP, WPA, WPA2, WPA3, WPS
+* Wi-Fi: WEP, WPA, WPA2, WPA3, WPS
 * SSH, FTP, DNS, SMTP, SNMP
 
 ### 🌐 Infrastructure & Network
@@ -137,12 +137,12 @@ print(response.json())
 * AWS, GCP, Azure
 * Docker & Kubernetes Security
 * CI/CD Security
-* Supply‑Chain Security
+* Supply-Chain Security
 
 ### 🧠 Advanced Domains
 
-* OSINT: Recon‑ng, SpiderFoot
-* Honeypots: Cowrie, T‑Pot
+* OSINT: Recon-ng, SpiderFoot
+* Honeypots: Cowrie, T-Pot
 * SIEM: ELK, Graylog
 * Incident Response
 * CVSS & Risk Matrix
