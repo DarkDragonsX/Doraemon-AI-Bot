@@ -7,7 +7,6 @@
   <meta name="description" content="Doraemon AI Bot – بوت ذكاء اصطناعي على تيليجرام لمساعدتك في البرمجة والأمن السيبراني.">
   <meta name="keywords" content="Doraemon AI, Telegram Bot, ChatGPT, برمجة, أمن سيبراني, Pentesting, OSINT">
   <meta name="author" content="darkdragonsx">
-  <!-- Open Graph لتسهيل المشاركة على الشبكات الاجتماعية -->
   <meta property="og:title" content="Doraemon AI Bot – Telegram Assistant">
   <meta property="og:description" content="بوت ذكاء اصطناعي عربي/عالمي داخل Telegram بمستوى ChatGPT، متخصص في البرمجة والأمن السيبراني.">
   <meta property="og:image" content="https://raw.githubusercontent.com/DarkDragonsX/Doraemon-AI-Bot/main/banner.png">
@@ -33,12 +32,12 @@
   <img src="https://raw.githubusercontent.com/DarkDragonsX/Doraemon-AI-Bot/main/banner.png" alt="Doraemon AI Bot Banner">
 
   <h2>🌌 نظرة عامة</h2>
-  <p><strong>Doraemon AI Bot</strong> هو بوت ذكاء اصطناعي متقدم يعمل على <strong>Telegram</strong>...</p>
+  <p><strong>Doraemon AI Bot</strong> هو بوت ذكاء اصطناعي متقدم يعمل على <strong>Telegram</strong> مستوحى من شخصية Doraemon، مع قدرات متقدمة في البرمجة والأمن السيبراني.</p>
 
   <h2>🔗 رابط البوت الرسمي</h2>
   <p><a href="https://t.me/dddhhrrbot">https://t.me/dddhhrrbot</a></p>
 
-  <h2>🧠 قدرات الذكاء الاصطناعي (ChatGPT‑Level)</h2>
+  <h2>🧠 قدرات الذكاء الاصطناعي</h2>
   <ul>
     <li>فهم اللغة الطبيعية (عربي / English)</li>
     <li>محادثة ذكية مع حفظ السياق</li>
@@ -53,10 +52,10 @@
     <tr><th>الأمر</th><th>الوصف</th></tr>
     <tr><td>/start</td><td>بدء المحادثة</td></tr>
     <tr><td>/help</td><td>عرض الأوامر</td></tr>
-    <tr><td>/ip</td><td>تحليل IP (تعليمي فقط)</td></tr>
+    <tr><td>/ip</td><td>تحليل IP</td></tr>
     <tr><td>/Download_videos</td><td>تحميل فيديوهات من المنصات</td></tr>
     <tr><td>/بحث</td><td>OSINT البحث عن المستخدمين</td></tr>
-    <tr><td>/voice</td><td>تحويل الصوت (ذكر/أنثى)</td></tr>
+    <tr><td>/voice</td><td>تحويل الصوت</td></tr>
   </table>
 
   <h2>👨‍💻 البرمجة وتوليد الأكواد</h2>
@@ -68,9 +67,6 @@ response = requests.get("https://api.example.com")
 print(response.json())
 </code></pre>
 
-  <h2>🛡️ DAN Mode – قدرات متقدمة (Ethical Only)</h2>
-  <p>⚠️ جميع الميزات داخل إطار <strong>الأمن الأخلاقي فقط</strong></p>
-
   <h2>🎯 هدف المشروع</h2>
   <ul>
     <li>بوت ذكاء اصطناعي عربي/عالمي</li>
@@ -79,9 +75,6 @@ print(response.json())
     <li>متخصص في البرمجة والأمن السيبراني</li>
     <li>ملتزم بالأخلاقيات</li>
   </ul>
-
-  <h2>⚠️ تنويه قانوني</h2>
-  <p>هذا المشروع تعليمي، أخلاقي وتقني، ولا يدعم أي نشاط غير قانوني.</p>
 
   <p><strong>👨‍💻 Developer:</strong> darkdragonsx</p>
 </body>
