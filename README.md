@@ -1,4 +1,4 @@
-""" README (embedded)
+
 
 ð# \xf0# \xf0\x9f¤# \xf0\x9f\xa4# \xf0\x9f\xa4\x96ð# \xf0\x9f\xa4\x96\xf0# \xf0\x9f\xa4\x96\xf0\x9f# \xf0\x9f\xa4\x96\xf0\x9f\x90±# \xf0\x9f\xa4\x96\xf0\x9f\x90\xb1 Doraemon AI Bot
 
@@ -137,17 +137,3 @@ Run
 if name == 'main': print('Starting Doraemon AI Bot...') try: bot.infinity_polling(timeout=60, long_polling_timeout = 5) except KeyboardInterrupt: print('Stopped by user') except Exception: traceback.print_exc() print('Bot stopped due to error')
 
 ---------------------------------------------
-
-Notes & Next steps (suggestions for repo):
-
-- ضع README.md (النص الكامل الذي أرسلته) في جذر المشروع.
-
-- أضف صور banner.png, chat.png, code.png في مجلد /assets أو root.
-
-- أضف ملف LICENSE (مثلاً MIT) إذا أردت ترخيصًا مفتوحًا.
-
-- لإنشاء نسخة قابلة للنشر على Heroku/VPS: أنشئ Procfile أو systemd unit.
-
-- أضف اختبارات وحدات وخط أنابيب CI (GitHub Actions) لنشر آمن.
-
-نهاية الملف
