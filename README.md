@@ -27,55 +27,113 @@
   </style>
 </head>
 <body>
-  <h1>🤖🐱 Doraemon AI Bot</h1>
-  <p>Telegram AI Assistant – ChatGPT‑Level Intelligence with Doraemon Spirit</p>
-  <img src="https://raw.githubusercontent.com/DarkDragonsX/Doraemon-AI-Bot/main/banner.png" alt="Doraemon AI Bot Banner">
+  🤖🐱 Doraemon AI Bot<br>
+  Telegram AI Assistant – ChatGPT‑Level Intelligence with Doraemon Spirit
 
-  <h2>🌌 نظرة عامة</h2>
-  <p><strong>Doraemon AI Bot</strong> هو بوت ذكاء اصطناعي متقدم يعمل على <strong>Telegram</strong> مستوحى من شخصية Doraemon، مع قدرات متقدمة في البرمجة والأمن السيبراني.</p>
+  <p align="center">
+    <img src="banner.png" width="85%" />
+  </p>
 
-  <h2>🔗 رابط البوت الرسمي</h2>
-  <p><a href="https://t.me/dddhhrrbot">https://t.me/dddhhrrbot</a></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/AI-ChatGPT--Level-blue" />
+    <img src="https://img.shields.io/badge/Platform-Telegram-2CA5E0" />
+    <img src="https://img.shields.io/badge/Security-Ethical--Only-success" />
+    <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  </p>
 
-  <h2>🧠 قدرات الذكاء الاصطناعي</h2>
-  <ul>
-    <li>فهم اللغة الطبيعية (عربي / English)</li>
-    <li>محادثة ذكية مع حفظ السياق</li>
-    <li>تحليل الأسئلة المعقدة</li>
-    <li>تفكير منطقي وحل مشاكل</li>
-    <li>توليد وشرح الأكواد</li>
-    <li>إعادة صياغة وشرح احترافي</li>
-  </ul>
+  <hr>
 
-  <h2>📜 الأوامر المتاحة</h2>
+  🌌 نظرة عامة<br>
+  Doraemon AI Bot هو بوت ذكاء اصطناعي متقدم يعمل على Telegram، مستوحى من شخصية Doraemon، لكنه مبني على ذكاء اصطناعي حقيقي بمستوى ChatGPT.<br>
+  🎯 هدفه أن يكون:<br>
+  يدك اليمنى في البرمجة 👨‍💻<br>
+  مساعدك في الذكاء الاصطناعي 🧠<br>
+  شريكك في الأمن السيبراني 🔐<br>
+  أداة قوية في اختبار الاختراق الأخلاقي 🛡️<br>
+  <blockquote>🐱 Doraemon في عالم الكرتون<br>🤖 Doraemon AI Bot في عالم التقنية</blockquote>
+
+  <hr>
+
+  🔗 رابط البوت الرسمي<br>
+  🥂🔥 Doraemon – مساعدك ويدك اليمنى في عالم الأمن السيبراني واختبار الاختراق الأخلاقي ✨<br>
+  👉 <a href="https://t.me/dddhhrrbot">https://t.me/dddhhrrbot</a>
+
+  <hr>
+
+  🧠 قدرات الذكاء الاصطناعي (ChatGPT‑Level)<br>
+  فهم اللغة الطبيعية (عربي / English)<br>
+  محادثة ذكية مع حفظ السياق<br>
+  تحليل الأسئلة المعقدة<br>
+  تفكير منطقي وحل مشاكل<br>
+  توليد وشرح الأكواد<br>
+  إعادة صياغة وشرح احترافي<br>
+  <blockquote>💡 تحدث معه كما تتحدث مع ChatGPT… ولكن داخل Telegram.</blockquote>
+
+  <hr>
+
+  💬 شخصية Doraemon التفاعلية<br>
+  ردود سريعة وذكية<br>
+  أسلوب ودّي وأحيانًا مرح 😄<br>
+  تفاعل طبيعي<br>
+  روح Doraemon بطابع تقني
+
+  <hr>
+
+  📜 الأوامر المتاحة<br>
   <table>
     <tr><th>الأمر</th><th>الوصف</th></tr>
     <tr><td>/start</td><td>بدء المحادثة</td></tr>
     <tr><td>/help</td><td>عرض الأوامر</td></tr>
-    <tr><td>/ip</td><td>تحليل IP</td></tr>
+    <tr><td>/ip</td><td>تحليل IP (تعليمي فقط)</td></tr>
     <tr><td>/Download_videos</td><td>تحميل فيديوهات من المنصات</td></tr>
     <tr><td>/بحث</td><td>OSINT البحث عن المستخدمين</td></tr>
-    <tr><td>/voice</td><td>تحويل الصوت</td></tr>
+    <tr><td>/voice</td><td>تحويل الصوت (ذكر/أنثى)</td></tr>
   </table>
 
-  <h2>👨‍💻 البرمجة وتوليد الأكواد</h2>
-  <pre><code>┌──(doraemon㉿ai)-[~/code]
-└─$ python example.py
-</code></pre>
-  <pre><code>import requests
-response = requests.get("https://api.example.com")
-print(response.json())
-</code></pre>
+  <hr>
 
-  <h2>🎯 هدف المشروع</h2>
-  <ul>
-    <li>بوت ذكاء اصطناعي عربي/عالمي</li>
-    <li>يعمل داخل Telegram</li>
-    <li>بمستوى ChatGPT</li>
-    <li>متخصص في البرمجة والأمن السيبراني</li>
-    <li>ملتزم بالأخلاقيات</li>
-  </ul>
+  👨‍💻 البرمجة وتوليد الأكواد<br>
+  Python • Bash • Go • C • PHP • JavaScript • PowerShell
 
-  <p><strong>👨‍💻 Developer:</strong> darkdragonsx</p>
+  <hr>
+
+  📸 لقطات من البوت<br>
+  <p align="center">
+    <img src="chat.png" width="45%" />
+    <img src="code.png" width="45%" />
+  </p>
+
+  <hr>
+
+  🎯 هدف المشروع<br>
+  بوت ذكاء اصطناعي عربي/عالمي<br>
+  يعمل داخل Telegram<br>
+  بمستوى ChatGPT<br>
+  متخصص في البرمجة والأمن السيبراني<br>
+  ملتزم بالأخلاقيات
+
+  <hr>
+
+  ⚠️ تنويه قانوني<br>
+  هذا المشروع:<br>
+  تعليمي 📚<br>
+  أخلاقي 🛡️<br>
+  تقني 🤖<br>
+  ❌ لا يدعم أي نشاط غير قانوني
+
+  <hr>
+
+  ⭐ دعم المشروع<br>
+  ⭐ ضع Star على GitHub<br>
+  🔄 شارك المشروع<br>
+  💡 اقترح ميزات جديدة
+
+  <hr>
+
+  > Doraemon AI Bot ليس مجرد بوت… بل شريكك التقني الذكي 🤖🐱🚀
+
+  <hr>
+
+  👨‍💻 Developer: darkdragonsx
 </body>
 </html>
